@@ -1,0 +1,12 @@
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.Entities\bin\Debug\net6.0\BookCategory.Entities.deps.json
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.Entities\bin\Debug\net6.0\BookCategory.Entities.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.Entities\bin\Debug\net6.0\BookCategory.Entities.pdb
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.Entities\obj\Debug\net6.0\BookCategory.Entities.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.Entities\obj\Debug\net6.0\BookCategory.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.Entities\obj\Debug\net6.0\BookCategory.Entities.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.Entities\obj\Debug\net6.0\BookCategory.Entities.AssemblyInfo.cs
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.Entities\obj\Debug\net6.0\BookCategory.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.Entities\obj\Debug\net6.0\BookCategory.Entities.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.Entities\obj\Debug\net6.0\BookCategory.Entities.pdb
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.Entities\obj\Debug\net6.0\ref\BookCategory.Entities.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.Entities\obj\Debug\net6.0\refint\BookCategory.Entities.dll

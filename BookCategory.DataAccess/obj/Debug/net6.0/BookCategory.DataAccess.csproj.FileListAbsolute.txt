@@ -1,0 +1,17 @@
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.DataAccess\obj\Debug\net6.0\BookCategory.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.DataAccess\obj\Debug\net6.0\BookCategory.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.DataAccess\obj\Debug\net6.0\BookCategory.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.DataAccess\obj\Debug\net6.0\BookCategory.DataAccess.AssemblyInfo.cs
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.DataAccess\obj\Debug\net6.0\BookCategory.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.DataAccess\bin\Debug\net6.0\BookCategory.DataAccess.deps.json
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.DataAccess\bin\Debug\net6.0\BookCategory.DataAccess.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.DataAccess\bin\Debug\net6.0\BookCategory.DataAccess.pdb
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.DataAccess\bin\Debug\net6.0\BookCategory.Entities.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.DataAccess\bin\Debug\net6.0\BookCategory.Entities.pdb
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.DataAccess\obj\Debug\net6.0\BookCategory.DataAccess.csproj.CopyComplete
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.DataAccess\obj\Debug\net6.0\BookCategory.DataAccess.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.DataAccess\obj\Debug\net6.0\refint\BookCategory.DataAccess.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.DataAccess\obj\Debug\net6.0\BookCategory.DataAccess.pdb
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.DataAccess\obj\Debug\net6.0\ref\BookCategory.DataAccess.dll
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.DataAccess\bin\Debug\net6.0\BookCategory.DataAccess.runtimeconfig.json
+C:\Users\Pc\Desktop\KodluyoruzBootcamp\BookCategoryProject\BookCategory.API\BookCategory.DataAccess\obj\Debug\net6.0\BookCategory.DataAccess.genruntimeconfig.cache

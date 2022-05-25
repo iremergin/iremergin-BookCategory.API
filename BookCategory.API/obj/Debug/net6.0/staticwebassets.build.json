@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "IXKtytpf4N3skroY/7jvFxDCfosQwPktJKF8zApwhIY=",
+  "Source": "BookCategory.API",
+  "BasePath": "_content/BookCategory.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BookCategory.API\\wwwroot",
+      "Source": "BookCategory.API",
+      "ContentRoot": "C:\\Users\\Pc\\Desktop\\KodluyoruzBootcamp\\BookCategoryProject\\BookCategory.API\\BookCategory.API\\wwwroot\\",
+      "BasePath": "_content/BookCategory.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Pc\\Desktop\\KodluyoruzBootcamp\\BookCategoryProject\\BookCategory.API\\BookCategory.API\\wwwroot\\error.html",
+      "SourceId": "BookCategory.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pc\\Desktop\\KodluyoruzBootcamp\\BookCategoryProject\\BookCategory.API\\BookCategory.API\\wwwroot\\",
+      "BasePath": "_content/BookCategory.API",
+      "RelativePath": "error.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\error.html"
+    }
+  ]
+}
