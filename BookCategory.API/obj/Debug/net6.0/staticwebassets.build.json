@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IXKtytpf4N3skroY/7jvFxDCfosQwPktJKF8zApwhIY=",
+  "Hash": "KBZ9SiMrPKUOVLBdWXWaZ/LSMHv8IUlUiSGkoy2AHNI=",
   "Source": "BookCategory.API",
   "BasePath": "_content/BookCategory.API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BookCategory.API\\wwwroot",
       "Source": "BookCategory.API",
-      "ContentRoot": "C:\\Users\\Pc\\Desktop\\KodluyoruzBootcamp\\BookCategoryProject\\BookCategory.API\\BookCategory.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pc\\Desktop\\KodluyoruzBootcamp\\iremergin\\BookCategoryProject\\BookCategory.API\\BookCategory.API\\wwwroot\\",
       "BasePath": "_content/BookCategory.API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Pc\\Desktop\\KodluyoruzBootcamp\\BookCategoryProject\\BookCategory.API\\BookCategory.API\\wwwroot\\error.html",
+      "Identity": "C:\\Users\\Pc\\Desktop\\KodluyoruzBootcamp\\iremergin\\BookCategoryProject\\BookCategory.API\\BookCategory.API\\wwwroot\\error.html",
       "SourceId": "BookCategory.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pc\\Desktop\\KodluyoruzBootcamp\\BookCategoryProject\\BookCategory.API\\BookCategory.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pc\\Desktop\\KodluyoruzBootcamp\\iremergin\\BookCategoryProject\\BookCategory.API\\BookCategory.API\\wwwroot\\",
       "BasePath": "_content/BookCategory.API",
       "RelativePath": "error.html",
       "AssetKind": "All",
